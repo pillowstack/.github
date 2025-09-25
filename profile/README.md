@@ -43,7 +43,7 @@ We welcome contributions to any of our repositories! Check each project's README
 
 - Discussions: [Pillowstack](https://github.com/pillowstack/.github/discussions)
 - GitHub: [@pillowstack](https://github.com/pillowstack)
-- Website: [c39.vasa.me](https://c39.vasa.me) <!-- ✅ Verified as accessible and properly configured as of 2025-06 -->
+- Website: [pillowstack.dev](https://pillowstack.dev) <!-- ✅ Verified as accessible and properly configured as of 2025-06 -->
   <!-- Maintainers: If updating this URL, please verify accessibility and configuration before publishing. -->
 
 ---
