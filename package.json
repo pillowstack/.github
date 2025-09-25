@@ -1,7 +1,7 @@
 {
-  "name": "@pillowstack/minimal-template",
+  "name": "@pillowstack/dotgithub",
   "version": "1.0.0",
-  "description": "A professional, minimal Node.js template with modern development tooling",
+  "description": "Contains the profile README. Has Discussions and Projects enabled.",
   "keywords": [
     "template",
     "nodejs",
