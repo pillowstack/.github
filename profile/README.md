@@ -47,7 +47,7 @@ We welcome contributions to any of our repositories! Check each project's README
 
 ---
 
-<div style="text-align: center">
+<div align="center">
   
 **© 2025 Pillowstack**
   
