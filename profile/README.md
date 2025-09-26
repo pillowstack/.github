@@ -20,13 +20,13 @@ Our templates are designed to be:
 
 ## 🔹 Repositories
 
-- [**backend-template**](https://github.com/pillowstack/backend-template) - Minimal, opinionated starter kit for modern Node.js backends.
-- [**app-template**](https://github.com/pillowstack/app-template) - Hybrid mobile app template using Vue 3, Vite, and Capacitor.
-- [**shared-template**](https://github.com/pillowstack/shared-template) - Shared styles and types for web and mobile projects.
-- [**landing-template**](https://github.com/pillowstack/landing-template) - Vite-based landing page template with GitHub Pages deploy.
-- [**design-template**](https://github.com/pillowstack/design-template) - Design system scaffold with SCSS, linting, formatting, and CI.
-- [**minimal-template**](https://github.com/pillowstack/minimal-template) - Minimal template with ESLint + Prettier and CI via GitHub Actions.
-- [**workflows-template**](https://github.com/pillowstack/workflows-template) - Centralized reusable GitHub workflows for Pillowstack projects.
+- [**backend-template**](https://github.com/pillowstack/backend-template) - Minimal, opinionated starter kit for modern Node.js backends
+- [**app-template**](https://github.com/pillowstack/app-template) - Hybrid mobile app template using Vue 3, Vite, and Capacitor
+- [**shared-template**](https://github.com/pillowstack/shared-template) - Shared styles and types for web and mobile projects
+- [**landing-template**](https://github.com/pillowstack/landing-template) - Vite-based landing page template with GitHub Pages deploy
+- [**design-template**](https://github.com/pillowstack/design-template) - Design system scaffold with SCSS, linting, formatting, and CI
+- [**minimal-template**](https://github.com/pillowstack/minimal-template) - Minimal template with ESLint + Prettier and CI via GitHub Actions
+- [**workflows-template**](https://github.com/pillowstack/workflows-template) - Centralized reusable GitHub workflows for Pillowstack projects
 
 ### Organization Resources
 
