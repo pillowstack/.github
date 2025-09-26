@@ -1,7 +1,7 @@
 {
   "name": "@pillowstack/dotgithub",
   "version": "1.0.0",
-  "description": "Contains the profile README. Has Discussions and Projects enabled.",
+  "description": "Contains the profile README. Has Discussions and Projects enabled",
   "keywords": [
     "template",
     "nodejs",

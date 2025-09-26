@@ -30,8 +30,8 @@ Our templates are designed to be:
 
 ### Organization Resources
 
-- [**.github**](https://github.com/pillowstack/.github) - Contains the profile README and shared GitHub configurations. Has GitHub Discussions enabled. Has Projects enabled.
-- [**docs**](https://github.com/pillowstack/docs) - Documentation site for Pillowstack projects. 🔒 Private repository.
+- [**.github**](https://github.com/pillowstack/.github) - Contains the profile README. Has Discussions and Projects enabled
+- [**docs**](https://github.com/pillowstack/docs) - Documentation site for Pillowstack projects. 🔒 Private repository
 
 ---
 
