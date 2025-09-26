@@ -31,7 +31,6 @@ Our templates are designed to be:
 ### Organization Resources
 
 - [**.github**](https://github.com/pillowstack/.github) - Contains the profile README. Has Discussions and Projects enabled
-- [**docs**](https://github.com/pillowstack/docs) - Documentation site for Pillowstack projects. 🔒 Private repository
 
 ---
 
@@ -48,7 +47,7 @@ We welcome contributions to any of our repositories! Check each project's README
 
 ---
 
-<div align="center">
+<div style="text-align: center">
   
 **© 2025 Pillowstack**
   
